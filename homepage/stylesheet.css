@@ -1,0 +1,33 @@
+#sidebar {
+	height: 295px;
+	width: 100px;
+	background-color: #505050;
+	margin-left: 30px;
+	position: fixed;
+	margin-top: 75px;
+}
+
+#name {
+	font-size: 18px;
+	font-family: Georgia;
+	height: 60px;
+	text-align: center;
+	color: black;
+	margin-top: 25px;
+	font-weight: bold;
+}
+
+.tab {
+	height: 50px;
+	text-align: center;
+	font-family: cursive,Georgia;
+	font-size: 16px;
+	border: 2px solid black;
+	border-bottom: 1px solid black;
+}
+
+.social {
+	width: 50px;
+	display: inline-block;
+	float:left;
+}
